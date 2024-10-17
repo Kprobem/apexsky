@@ -7,7 +7,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">apexsky</h3>
+  <h3 align="center">apexsky-S</h3>
 
   <p align="center">
     DMA/KVM/Linux game mod loader
